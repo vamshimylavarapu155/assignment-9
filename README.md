@@ -1,5 +1,5 @@
 # assignment-9
-Link for recording: https://drive.google.com/file/d/1ajJVY-fuHszaCV9LEd4Mbnd_rBlqxODV/view?usp=drive_link
+Link for recording: https://drive.google.com/file/d/19_Zxl3cf0hKSxdNGhUtd8SRLD2nYF6fZ/view?usp=drive_link
 
 Lesson Overview: In this lesson, we are going to discuss types of ANNs and Recurrent Neural Network. Use Case Description:
 
